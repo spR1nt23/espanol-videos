@@ -1,0 +1,7 @@
+[
+  {"slug": "01_seni_dusunuyorum", "tr": "Seni düşünüyorum", "es": "Estoy pensando en ti", "es_say": "Estoy pensando en ti.", "okunus": "es-TOY pen-SAN-do en Tİ", "emoji": "💭", "hue": 0.62, "konu": "aşk", "saat": "18:00"},
+  {"slug": "02_sana_ihtiyacim_var", "tr": "Sana ihtiyacım var", "es": "Te necesito", "es_say": "Te necesito.", "okunus": "te ne-se-Sİ-to", "emoji": "🥺", "hue": 0.78, "konu": "aşk", "saat": "19:30"},
+  {"slug": "03_benimle_evlenir_misin", "tr": "Benimle evlenir misin?", "es": "¿Te quieres casar conmigo?", "es_say": "¿Te quieres casar conmigo?", "okunus": "te KİE-res ka-SAR kon-Mİ-go", "emoji": "💍", "hue": 0.92, "konu": "evlilikteklifi", "saat": "21:00"},
+  {"slug": "04_kalbimi_kirdin", "tr": "Kalbimi kırdın", "es": "Me rompiste el corazón", "es_say": "Me rompiste el corazón.", "okunus": "me rom-PİS-te el ko-ra-SON", "emoji": "💔", "hue": 0.0, "konu": "kalpkırıklığı", "saat": "22:00"},
+  {"slug": "05_seni_asla_unutmayacagim", "tr": "Seni asla unutmayacağım", "es": "Nunca te olvidaré", "es_say": "Nunca te olvidaré.", "okunus": "NUN-ka te ol-bi-da-RE", "emoji": "💖", "hue": 0.70, "konu": "aşk", "saat": "23:00"}
+]

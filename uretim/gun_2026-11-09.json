@@ -1,0 +1,7 @@
+[
+  {"slug": "01_beni_ozledin_mi", "tr": "Beni özledin mi?", "es": "¿Me extrañaste?", "es_say": "¿Me extrañaste?", "okunus": "me eks-tra-NYAS-te", "emoji": "🥺", "hue": 0.60, "konu": "beniözledinmi", "saat": "18:00"},
+  {"slug": "02_gitme_lutfen", "tr": "Gitme lütfen", "es": "No te vayas, por favor", "es_say": "No te vayas, por favor.", "okunus": "no te VA-yas por fa-VOR", "emoji": "😢", "hue": 0.75, "konu": "gitmelütfen", "saat": "19:30"},
+  {"slug": "03_hayatimin_aski", "tr": "Hayatımın aşkısın", "es": "Eres el amor de mi vida", "es_say": "Eres el amor de mi vida.", "okunus": "E-res el a-MOR de mi Bİ-da", "emoji": "❤️", "hue": 0.95, "konu": "hayatımınaşkısın", "saat": "21:00"},
+  {"slug": "04_sen_benim_her_seyimsin", "tr": "Sen benim her şeyimsin", "es": "Eres mi todo", "es_say": "Eres mi todo.", "okunus": "E-res mi TO-do", "emoji": "💞", "hue": 0.85, "konu": "senbenimherşeyimsin", "saat": "22:00"},
+  {"slug": "05_seninle_mutluyum", "tr": "Seninle mutluyum", "es": "Soy feliz contigo", "es_say": "Soy feliz contigo.", "okunus": "soy fe-LİS kon-Tİ-go", "emoji": "😊", "hue": 0.55, "konu": "seninlemutluyum", "saat": "23:00"}
+]
