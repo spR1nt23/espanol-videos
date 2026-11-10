@@ -66,6 +66,12 @@ Kullanıcıyla Türkçe konuş. Kullanıcı genelde ortada olmaz: soru sorma, ma
 - Kullanıcıya kısa Türkçe özet: 5 cümle + saatler + varsa sorun. En iyi giden videoyu ve izlenme eğilimini 1 cümleyle söyle.
 
 ## Notlar
+- EN GÜVENİLİR BAŞLIK/AÇIKLAMA YÖNTEMİ (10 Kas): computer type yerine JS ile `e.focus(); document.execCommand('selectAll'); document.execCommand('insertText', false, METIN)`.
+  Taze yüklemede ilk adımda bazen tutmaz: önce `#step-badge-3` sonra `#step-badge-0` ile Ayrıntılar'a geri dönüp tekrar uygula, `innerText` ile doğrula.
+- YÜKLEME BİTMEDEN SAYFADAN AYRILMA: `ytcp-video-upload-progress` içinde "Yükleme tamamlandı" yazana kadar bekle. Erken çıkarsan video
+  "Yüklemeyi devam ettir" durumunda kalır ama YouTube bazen yine de tamamlayıp dosya adlı başlıkla planlar → kopya oluşur.
+- Planla'dan sonra paylaşım penceresi çıkmayabilir; Shorts listesinden "Planlandı" olduğunu doğrula.
+- Bilgisayar 14:55'te kapalıysa görev "device_absent" ile duraklar, bilgisayar açılınca hemen çalışır.
 - Başlık için focus+selectAll bazen tüm sayfayı seçer (diyalog tam yüklenmeden). Yazmadan önce `window.getSelection().toString()` kontrol et; yanlışsa başlık kutusuna triple_click yapıp tekrar dene. Açıklama boşsa activeElement'in açıklama kutusu olduğunu doğrula.
 - Önceki bir çalışma yarım kalmışsa (videos/<tarih> var ama Studio'da eksik), sadece eksikleri json'daki saatlerle yükle; 'TR 10Kas ..' gibi dosya adlı başlık görürsen o yarım kalmış bir yüklemedir, kullanıcıya bildir.
 - Aynı tarayıcıyı başka sohbetler de kullanıyor ve kanal değiştirebiliyor. Her yüklemeden önce kanal kimliğini kontrol et.
