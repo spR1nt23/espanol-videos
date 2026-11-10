@@ -66,5 +66,7 @@ Kullanıcıyla Türkçe konuş. Kullanıcı genelde ortada olmaz: soru sorma, ma
 - Kullanıcıya kısa Türkçe özet: 5 cümle + saatler + varsa sorun. En iyi giden videoyu ve izlenme eğilimini 1 cümleyle söyle.
 
 ## Notlar
+- Başlık için focus+selectAll bazen tüm sayfayı seçer (diyalog tam yüklenmeden). Yazmadan önce `window.getSelection().toString()` kontrol et; yanlışsa başlık kutusuna triple_click yapıp tekrar dene. Açıklama boşsa activeElement'in açıklama kutusu olduğunu doğrula.
+- Önceki bir çalışma yarım kalmışsa (videos/<tarih> var ama Studio'da eksik), sadece eksikleri json'daki saatlerle yükle; 'TR 10Kas ..' gibi dosya adlı başlık görürsen o yarım kalmış bir yüklemedir, kullanıcıya bildir.
 - Aynı tarayıcıyı başka sohbetler de kullanıyor ve kanal değiştirebiliyor. Her yüklemeden önce kanal kimliğini kontrol et.
 - 9 Kas itibarıyla izlenmeler: "Seni çok özledim" 103, "Adın ne?" 23, diğerleri 0-8. Duygusal tema henüz net kazanmadı; çeşitlilik dene (günlük ifadeler + duygusal karışık olabilir).
