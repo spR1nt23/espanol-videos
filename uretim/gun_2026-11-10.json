@@ -1,0 +1,7 @@
+[
+  {"slug": "01_neredesin", "tr": "Neredesin?", "es": "¿Dónde estás?", "es_say": "¿Dónde estás?", "okunus": "DON-de es-TAS", "emoji": "📍", "hue": 0.58, "konu": "neredesin", "saat": "23:00"},
+  {"slug": "02_seni_bekliyorum", "tr": "Seni bekliyorum", "es": "Te estoy esperando", "es_say": "Te estoy esperando.", "okunus": "te es-TOY es-pe-RAN-do", "emoji": "⏳", "hue": 0.80, "konu": "senibekliyorum", "saat": "23:10"},
+  {"slug": "03_gunaydin_askim", "tr": "Günaydın aşkım", "es": "Buenos días, mi amor", "es_say": "Buenos días, mi amor.", "okunus": "BUE-nos Dİ-as mi a-MOR", "emoji": "☀️", "hue": 0.08, "konu": "günaydınaşkım", "saat": "23:20"},
+  {"slug": "04_benimle_konus", "tr": "Benimle konuş", "es": "Habla conmigo", "es_say": "Habla conmigo.", "okunus": "A-bla kon-Mİ-go", "emoji": "💬", "hue": 0.68, "konu": "benimlekonuş", "saat": "23:35"},
+  {"slug": "05_cok_yorgunum", "tr": "Çok yorgunum", "es": "Estoy muy cansado", "es_say": "Estoy muy cansado.", "okunus": "es-TOY muy kan-SA-do", "emoji": "😴", "hue": 0.62, "konu": "çokyorgunum", "saat": "23:50"}
+]
