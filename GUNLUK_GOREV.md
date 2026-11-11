@@ -76,3 +76,16 @@ Kullanıcıyla Türkçe konuş. Kullanıcı genelde ortada olmaz: soru sorma, ma
 - Önceki bir çalışma yarım kalmışsa (videos/<tarih> var ama Studio'da eksik), sadece eksikleri json'daki saatlerle yükle; 'TR 10Kas ..' gibi dosya adlı başlık görürsen o yarım kalmış bir yüklemedir, kullanıcıya bildir.
 - Aynı tarayıcıyı başka sohbetler de kullanıyor ve kanal değiştirebiliyor. Her yüklemeden önce kanal kimliğini kontrol et.
 - 9 Kas itibarıyla izlenmeler: "Seni çok özledim" 103, "Adın ne?" 23, diğerleri 0-8. Duygusal tema henüz net kazanmadı; çeşitlilik dene (günlük ifadeler + duygusal karışık olabilir).
+- 11 Kas notları:
+  - JS `e.focus()` + insertText tek başına TUTMADI (tarayıcı paneli gizliyken odak gelmiyor). Çalışan yol: `find` ile kutunun ref'ini al →
+    `computer triple_click ref` (başlık) / `left_click ref` (açıklama) → JS'te `document.activeElement.closest('#title-textarea'|'#description-textarea')`
+    doğrula → `execCommand('selectAll')` + `execCommand('insertText',false,METIN)`. Koordinatla tıklama: açıklama kutusunun yeri değişebiliyor, hep ref kullan.
+  - Tarih/saat: tarih kutusu ve saat kutusu için de `find "12 Kas 2026"` / `find "00:00"` → triple_click ref → type → Enter. Saat kutusu bazen odak almıyor
+    (açılır liste açık kalıyor); yazmadan önce `document.activeElement.value` kontrol et, boşsa ekran görüntüsü alıp kutuya koordinatla triple_click yap.
+  - Planla öncesi kontrol: "%3 kontrol ediliyor" telif kontrolüdür, yüklemeyle ilgisi yok; "Yükleme tamamlandı" görüldüyse Planla güvenli.
+  - Sayfa yenilenince (upload?d=ud) window'a tanımlanan JS yardımcıları silinir; her videoda yeniden tanımla.
+  - İspanyolca cümle ? veya ! ile bitiyorsa açıklamada sonuna nokta koyma ("¿Cómo te fue hoy? (KO-mo...)").
+  - 11 Kas'ta 4. yüklemeden sonra "Günlük yükleme sınırına ulaşıldı" çıktı (önceki günlerde 5 sorunsuzdu). Kullanıcı telefonla doğrulama yapmadıysa
+    günde 4 sınırı olabilir: kalan video ertesi gün ÖNCE yüklensin (önceki günün videos/<tarih> klasörüne bak).
+- 11 Kas itibarıyla izlenmeler: "Neredesin?" 253 (1 günde!), "Beni özledin mi?" 111, "Seni çok özledim" 103, "Adın ne?" 27, "Hayatımın aşkısın" 24.
+  Kısa soru cümleleri ve özlem teması öne çıkıyor.
