@@ -1,0 +1,7 @@
+[
+  {"slug": "01_bugun_nasil_gecti", "tr": "Bugün nasıl geçti?", "es": "¿Cómo te fue hoy?", "es_say": "¿Cómo te fue hoy?", "okunus": "KO-mo te FUE oy", "emoji": "🌇", "hue": 0.07, "konu": "bugünnasılgeçti", "saat": "18:00"},
+  {"slug": "02_seninle_gurur_duyuyorum", "tr": "Seninle gurur duyuyorum", "es": "Estoy orgulloso de ti", "es_say": "Estoy orgulloso de ti.", "okunus": "es-TOY or-gu-YO-so de ti", "emoji": "🏆", "hue": 0.13, "konu": "seninlegururduyuyorum", "saat": "19:30"},
+  {"slug": "03_bir_dakika_bekle", "tr": "Bir dakika bekle", "es": "Espera un momento", "es_say": "Espera un momento.", "okunus": "es-PE-ra un mo-MEN-to", "emoji": "✋", "hue": 0.52, "konu": "birdakikabekle", "saat": "21:00"},
+  {"slug": "04_sana_guveniyorum", "tr": "Sana güveniyorum", "es": "Confío en ti", "es_say": "Yo confío en ti.", "okunus": "kon-Fİ-o en ti", "emoji": "🤝", "hue": 0.36, "konu": "sanagüveniyorum", "saat": "22:00"},
+  {"slug": "05_bu_ne_kadar", "tr": "Bu ne kadar?", "es": "¿Cuánto cuesta esto?", "es_say": "¿Cuánto cuesta esto?", "okunus": "KUAN-to KUES-ta ES-to", "emoji": "💰", "hue": 0.30, "konu": "bunekadar", "saat": "23:00"}
+]
