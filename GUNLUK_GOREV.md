@@ -66,6 +66,13 @@ Kullanıcıyla Türkçe konuş. Kullanıcı genelde ortada olmaz: soru sorma, ma
 - Kullanıcıya kısa Türkçe özet: 5 cümle + saatler + varsa sorun. En iyi giden videoyu ve izlenme eğilimini 1 cümleyle söyle.
 
 ## Notlar
+- 12 Kas – ÇALIŞAN TAM AKIŞ (panel gizliyken):
+  - Hesap menüsü JS click ile açılmıyorsa: resize_window preset desktop → read_page interactive → button "Account" ref → left_click → find "Hesap değiştir" → left_click → find "Español en 7 días" → left_click.
+    (1280x900 emülasyonda bazı ref'ler (0,0)'a düşüyor; menü işlemlerinde emülasyonu kapat.)
+  - Başlık: find "Videonuzu tanımlayan" → triple_click ref → JS activeElement.closest('#title-textarea') kontrol → selectAll + insertText.
+  - Açıklama: find "İzleyicilere videonuzu" → scroll_to ref → left_click ref → aynı kontrol + insertText.
+  - Saat: kutuya yazmak yerine JS ile `#time-of-day-container input` click → listede innerText==='21:00' olan öğeye JS click. (Yazınca 00:00'da kalabiliyor.)
+  - 5 video (1'i önceki günden) sorunsuz yüklendi, sınır çıkmadı.
 - EN GÜVENİLİR BAŞLIK/AÇIKLAMA YÖNTEMİ (10 Kas): computer type yerine JS ile `e.focus(); document.execCommand('selectAll'); document.execCommand('insertText', false, METIN)`.
   Taze yüklemede ilk adımda bazen tutmaz: önce `#step-badge-3` sonra `#step-badge-0` ile Ayrıntılar'a geri dönüp tekrar uygula, `innerText` ile doğrula.
 - YÜKLEME BİTMEDEN SAYFADAN AYRILMA: `ytcp-video-upload-progress` içinde "Yükleme tamamlandı" yazana kadar bekle. Erken çıkarsan video
