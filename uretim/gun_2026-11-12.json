@@ -1,0 +1,6 @@
+[
+  {"slug": "01_beni_seviyor_musun", "tr": "Beni seviyor musun?", "es": "¿Me quieres?", "es_say": "¿Me quieres?", "okunus": "me KİE-res", "emoji": "💘", "hue": 0.93, "konu": "beniseviyormusun", "saat": "19:30"},
+  {"slug": "02_ne_zaman_geleceksin", "tr": "Ne zaman geleceksin?", "es": "¿Cuándo vas a venir?", "es_say": "¿Cuándo vas a venir?", "okunus": "KUAN-do bas a be-NİR", "emoji": "🕰️", "hue": 0.62, "konu": "nezamangeleceksin", "saat": "21:00"},
+  {"slug": "03_uyudun_mu", "tr": "Uyudun mu?", "es": "¿Ya te dormiste?", "es_say": "¿Ya te dormiste?", "okunus": "ya te dor-MİS-te", "emoji": "🌙", "hue": 0.70, "konu": "uyudunmu", "saat": "22:00"},
+  {"slug": "04_seni_gormek_istiyorum", "tr": "Seni görmek istiyorum", "es": "Quiero verte", "es_say": "Quiero verte.", "okunus": "KİE-ro BER-te", "emoji": "👀", "hue": 0.80, "konu": "senigörmekistiyorum", "saat": "23:00"}
+]
