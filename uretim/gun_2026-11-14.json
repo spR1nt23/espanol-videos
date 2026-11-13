@@ -1,0 +1,7 @@
+[
+  {"slug": "01_beni_dusunuyor_musun", "tr": "Beni düşünüyor musun?", "es": "¿Piensas en mí?", "es_say": "¿Piensas en mí?", "okunus": "PİEN-sas en Mİ", "emoji": "💭", "hue": 0.88, "konu": "benidüşünüyormusun", "saat": "18:00"},
+  {"slug": "02_ne_zaman_gorusecegiz", "tr": "Ne zaman görüşeceğiz?", "es": "¿Cuándo nos vamos a ver?", "es_say": "¿Cuándo nos vamos a ver?", "okunus": "KUAN-do nos BA-mos a BER", "emoji": "📅", "hue": 0.58, "konu": "nezamangörüşeceğiz", "saat": "19:30"},
+  {"slug": "03_neden_cevap_vermiyorsun", "tr": "Neden cevap vermiyorsun?", "es": "¿Por qué no me contestas?", "es_say": "¿Por qué no me contestas?", "okunus": "por KE no me kon-TES-tas", "emoji": "📱", "hue": 0.02, "konu": "nedencevapvermiyorsun", "saat": "21:00"},
+  {"slug": "04_sesini_duymak_istiyorum", "tr": "Sesini duymak istiyorum", "es": "Quiero escuchar tu voz", "es_say": "Quiero escuchar tu voz.", "okunus": "KİE-ro es-ku-ÇAR tu BOS", "emoji": "📞", "hue": 0.75, "konu": "sesiniduymakistiyorum", "saat": "22:00"},
+  {"slug": "05_benimle_kal", "tr": "Benimle kal", "es": "Quédate aquí conmigo", "es_say": "Quédate aquí conmigo.", "okunus": "KE-da-te a-Kİ kon-Mİ-go", "emoji": "🫂", "hue": 0.95, "konu": "benimlekal", "saat": "23:00"}
+]
