@@ -1,0 +1,7 @@
+[
+  {"slug": "01_aklimdan_cikmiyorsun", "tr": "Aklımdan çıkmıyorsun", "es": "No dejo de pensarte", "es_say": "No dejo de pensarte.", "okunus": "no DE-ho de pen-SAR-te", "emoji": "💭", "hue": 0.85, "konu": "aklımdançıkmıyorsun", "saat": "18:00"},
+  {"slug": "02_ne_dusunuyorsun", "tr": "Ne düşünüyorsun?", "es": "¿En qué estás pensando?", "es_say": "¿En qué estás pensando?", "okunus": "en KE es-TAS pen-SAN-do", "emoji": "🤔", "hue": 0.55, "konu": "nedüşünüyorsun", "saat": "19:30"},
+  {"slug": "03_beni_unuttun_mu", "tr": "Beni unuttun mu?", "es": "¿Ya me olvidaste?", "es_say": "¿Ya me olvidaste?", "okunus": "ya me ol-bi-DAS-te", "emoji": "🥺", "hue": 0.68, "konu": "beniunuttunmu", "saat": "21:00"},
+  {"slug": "04_bana_saril", "tr": "Bana sarıl", "es": "Abrázame fuerte", "es_say": "Abrázame fuerte.", "okunus": "a-BRA-sa-me FUER-te", "emoji": "🤗", "hue": 0.05, "konu": "banasarıl", "saat": "22:00"},
+  {"slug": "05_seni_kaybetmek_istemiyorum", "tr": "Seni kaybetmek istemiyorum", "es": "No quiero perderte", "es_say": "No quiero perderte.", "okunus": "no KİE-ro per-DER-te", "emoji": "💔", "hue": 0.95, "konu": "senikaybetmekistemiyorum", "saat": "23:00"}
+]
