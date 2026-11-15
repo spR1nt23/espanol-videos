@@ -1,0 +1,7 @@
+[
+  {"slug": "01_neredeydin", "tr": "Neredeydin?", "es": "¿Dónde estuviste?", "es_say": "¿Dónde estuviste?", "okunus": "DON-de es-tu-BİS-te", "emoji": "🧐", "hue": 0.6, "konu": "neredeydin", "saat": "18:00"},
+  {"slug": "02_beni_hala_seviyor_musun", "tr": "Beni hâlâ seviyor musun?", "es": "¿Todavía me amas?", "es_say": "¿Todavía me amas?", "okunus": "to-da-Bİ-a me A-mas", "emoji": "🥺", "hue": 0.9, "konu": "benihâlâseviyormusun", "saat": "19:30"},
+  {"slug": "03_beni_affet", "tr": "Beni affet", "es": "Por favor, perdóname", "es_say": "Por favor, perdóname.", "okunus": "por fa-BOR per-DO-na-me", "emoji": "🙏", "hue": 0.08, "konu": "beniaffet", "saat": "21:00"},
+  {"slug": "04_neden_uzgunsun", "tr": "Neden üzgünsün?", "es": "¿Por qué estás triste?", "es_say": "¿Por qué estás triste?", "okunus": "por KE es-TAS TRİS-te", "emoji": "😢", "hue": 0.62, "konu": "nedenüzgünsün", "saat": "22:00"},
+  {"slug": "05_mesajini_bekliyorum", "tr": "Mesajını bekliyorum", "es": "Espero tu mensaje", "es_say": "Espero tu mensaje.", "okunus": "es-PE-ro tu men-SA-he", "emoji": "📱", "hue": 0.78, "konu": "mesajınıbekliyorum", "saat": "23:00"}
+]
