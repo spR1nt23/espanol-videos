@@ -1,0 +1,7 @@
+[
+  {"slug": "01_beni_aradin_mi", "tr": "Beni aradın mı?", "es": "¿Tú me llamaste?", "es_say": "¿Tú me llamaste?", "okunus": "tu me ya-MAS-te", "emoji": "📞", "hue": 0.55, "konu": "beniaradınmı", "saat": "18:00"},
+  {"slug": "02_ruyamda_seni_gordum", "tr": "Rüyamda seni gördüm", "es": "Anoche soñé contigo", "es_say": "Anoche soñé contigo.", "okunus": "a-NO-che so-NYE kon-Tİ-go", "emoji": "🌙", "hue": 0.7, "konu": "rüyamdasenigördüm", "saat": "19:30"},
+  {"slug": "03_kizgin_misin", "tr": "Kızgın mısın?", "es": "¿Estás enojado?", "es_say": "¿Estás enojado?", "okunus": "es-TAS e-no-HA-do", "emoji": "😟", "hue": 0.02, "konu": "kızgınmısın", "saat": "21:00"},
+  {"slug": "04_seni_merak_ettim", "tr": "Seni merak ettim", "es": "Me preocupé por ti", "es_say": "Me preocupé por ti.", "okunus": "me pre-o-ku-PE por ti", "emoji": "🥺", "hue": 0.88, "konu": "senimerakettim", "saat": "22:00"},
+  {"slug": "05_hala_uyanik_misin", "tr": "Hâlâ uyanık mısın?", "es": "¿Aún estás despierto?", "es_say": "¿Aún estás despierto?", "okunus": "a-UN es-TAS des-PİER-to", "emoji": "🌃", "hue": 0.64, "konu": "hâlâuyanıkmısın", "saat": "23:00"}
+]
