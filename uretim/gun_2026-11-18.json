@@ -1,0 +1,7 @@
+[
+  {"slug": "01_yemek_yedin_mi", "tr": "Yemek yedin mi?", "es": "¿Tú ya comiste?", "es_say": "¿Tú ya comiste?", "okunus": "tu ya ko-MİS-te", "emoji": "🍽️", "hue": 0.08, "konu": "yemekyedinmi", "saat": "18:00"},
+  {"slug": "02_seni_ozleyecegim", "tr": "Seni özleyeceğim", "es": "Te voy a extrañar", "es_say": "Yo te voy a extrañar.", "okunus": "te boy a eks-tra-NYAR", "emoji": "🥹", "hue": 0.9, "konu": "seniözleyeceğim", "saat": "19:30"},
+  {"slug": "03_neden_gittin", "tr": "Neden gittin?", "es": "¿Por qué te fuiste?", "es_say": "¿Por qué te fuiste?", "okunus": "por KE te FUİS-te", "emoji": "💔", "hue": 0.62, "konu": "nedengittin", "saat": "21:00"},
+  {"slug": "04_bana_yalan_soyleme", "tr": "Bana yalan söyleme", "es": "Por favor, no me mientas", "es_say": "Por favor, no me mientas.", "okunus": "por fa-BOR no me MİEN-tas", "emoji": "🤥", "hue": 0.02, "konu": "banayalansöyleme", "saat": "22:00"},
+  {"slug": "05_eve_vardin_mi", "tr": "Eve vardın mı?", "es": "¿Ya llegaste a tu casa?", "es_say": "¿Ya llegaste a tu casa?", "okunus": "ya ye-GAS-te a tu KA-sa", "emoji": "🏠", "hue": 0.5, "konu": "evevardınmı", "saat": "23:00"}
+]
