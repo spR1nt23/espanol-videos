@@ -84,7 +84,7 @@ def background(t, hue, bokeh):
 
 # ---------- audio ----------
 def load(path):
-    tmp = "/tmp/_rs.wav"
+    tmp = f"/tmp/_rs_{os.getpid()}.wav"
     subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", path, "-ar", str(SR), "-ac", "1", tmp], check=True)
     d, _ = sf.read(tmp, dtype="float32"); return d
 
@@ -144,6 +144,9 @@ def render(item, outdir):
     L["flag"] = emoji("🇪🇸", 58)
     L["emoji"] = emoji(emj, 270)
     L["tr_big"] = text_layer([f"“{tr}”"], font("ExtraBold", 104), (255, 255, 255), stroke=5, stroke_fill=(0, 0, 0, 120), maxw=960)
+    for _fs in (92, 82, 74):  # 3+ satira tasarsa kucult
+        if L["tr_big"].height <= 340: break
+        L["tr_big"] = text_layer([f"“{tr}”"], font("ExtraBold", _fs), (255, 255, 255), stroke=5, stroke_fill=(0, 0, 0, 120), maxw=960)
     L["tr_small"] = text_layer([f"“{tr}”"], font("Bold", 64), (255, 255, 255, 235), maxw=960)
     L["nasil"] = text_layer(["İspanyolca nasıl denir?"], font("Bold", 66), (255, 214, 102))
     L["biliyor"] = text_layer(["Biliyor musun?"], font("SemiBold", 58), (255, 255, 255))
@@ -167,7 +170,7 @@ def render(item, outdir):
 
     proc = subprocess.Popen(["ffmpeg", "-y", "-loglevel", "error", "-f", "rawvideo", "-pix_fmt", "rgb24", "-s", f"{W}x{H}", "-r", str(FPS), "-i", "-",
                              "-i", f"{wd}/mix.wav", "-af", "loudnorm=I=-14:TP=-1.5:LRA=11", "-ar", "48000",
-                             "-c:v", "libx264", "-preset", "veryfast", "-crf", "19", "-pix_fmt", "yuv420p", "-c:a", "aac", "-b:a", "192k",
+                             "-c:v", "libx264", "-threads", "2", "-preset", "veryfast", "-crf", "19", "-pix_fmt", "yuv420p", "-c:a", "aac", "-b:a", "192k",
                              "-movflags", "+faststart", "-shortest", f"{outdir}/{slug}.mp4"], stdin=subprocess.PIPE)
     nf = int(dur * FPS)
     for fi in range(nf):

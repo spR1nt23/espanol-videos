@@ -1,0 +1,7 @@
+[
+  {"slug": "01_bugun_ne_yaptin", "tr": "Bugün ne yaptın?", "es": "¿Qué hiciste el día de hoy?", "es_say": "¿Qué hiciste el día de hoy?", "okunus": "ke i-SİS-te el Dİ-a de OY", "emoji": "☀️", "hue": 0.12, "konu": "bugünneyaptın", "saat": "18:00"},
+  {"slug": "02_seninle_olmak_istiyorum", "tr": "Seninle olmak istiyorum", "es": "Quiero estar contigo", "es_say": "Quiero estar contigo.", "okunus": "KİE-ro es-TAR kon-Tİ-go", "emoji": "💞", "hue": 0.92, "konu": "seninleolmakistiyorum", "saat": "19:30"},
+  {"slug": "03_benden_hoslaniyor_musun", "tr": "Benden hoşlanıyor musun?", "es": "Dime, ¿yo te gusto?", "es_say": "Dime, ¿yo te gusto?", "okunus": "Dİ-me yo te GUS-to", "emoji": "😳", "hue": 0.78, "konu": "bendenhoşlanıyormusun", "saat": "21:00"},
+  {"slug": "04_gulusunu_seviyorum", "tr": "Gülüşünü seviyorum", "es": "Me encanta tu sonrisa", "es_say": "Me encanta tu sonrisa.", "okunus": "me en-KAN-ta tu son-Rİ-sa", "emoji": "😊", "hue": 0.04, "konu": "gülüşünüseviyorum", "saat": "22:00"},
+  {"slug": "05_bana_guvenebilirsin", "tr": "Bana güvenebilirsin", "es": "Puedes confiar en mí", "es_say": "Puedes confiar en mí.", "okunus": "PUE-des kon-fi-AR en Mİ", "emoji": "🤝", "hue": 0.55, "konu": "banagüvenebilirsin", "saat": "23:00"}
+]
