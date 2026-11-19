@@ -1,0 +1,7 @@
+[
+  {"slug": "01_nerede_yasiyorsun", "tr": "Nerede yaşıyorsun?", "es": "Dime, ¿dónde vives?", "es_say": "Dime, ¿dónde vives?", "okunus": "Dİ-me DON-de Vİ-ves", "emoji": "🏠", "hue": 0.58, "konu": "neredeyaşıyorsun", "saat": "18:00"},
+  {"slug": "02_beni_bekle", "tr": "Beni bekle", "es": "Espérame, por favor", "es_say": "Espérame, por favor.", "okunus": "es-PE-ra-me por fa-VOR", "emoji": "⏳", "hue": 0.7, "konu": "benibekle", "saat": "19:30"},
+  {"slug": "03_beni_cok_mutlu_ediyorsun", "tr": "Beni çok mutlu ediyorsun", "es": "Tú me haces muy feliz", "es_say": "Tú me haces muy feliz.", "okunus": "tu me A-ses muy fe-LİS", "emoji": "🥰", "hue": 0.95, "konu": "beniçokmutluediyorsun", "saat": "21:00"},
+  {"slug": "04_bana_mesaj_at", "tr": "Bana mesaj at", "es": "Mándame un mensaje", "es_say": "Mándame un mensaje.", "okunus": "MAN-da-me un men-SA-he", "emoji": "📱", "hue": 0.45, "konu": "banamesajat", "saat": "22:00"},
+  {"slug": "05_yarin_gorusuruz", "tr": "Yarın görüşürüz", "es": "Nos vemos mañana", "es_say": "Nos vemos mañana.", "okunus": "nos VE-mos ma-NYA-na", "emoji": "👋", "hue": 0.1, "konu": "yarıngörüşürüz", "saat": "23:00"}
+]
