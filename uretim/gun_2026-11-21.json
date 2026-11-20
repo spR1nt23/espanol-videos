@@ -1,0 +1,7 @@
+[
+  {"slug": "01_kiminlesin", "tr": "Kiminlesin?", "es": "¿Con quién estás?", "es_say": "¿Con quién estás?", "okunus": "kon KİEN es-TAS", "emoji": "🤨", "hue": 0.62, "konu": "kiminlesin", "saat": "18:00"},
+  {"slug": "02_seni_hic_unutmadim", "tr": "Seni hiç unutmadım", "es": "Nunca te he olvidado", "es_say": "Nunca te he olvidado.", "okunus": "NUN-ka te e ol-bi-DA-do", "emoji": "💭", "hue": 0.78, "konu": "senihiçunutmadım", "saat": "19:30"},
+  {"slug": "03_bana_bir_sans_ver", "tr": "Bana bir şans ver", "es": "Dame una oportunidad", "es_say": "Dame una oportunidad.", "okunus": "DA-me U-na o-por-tu-ni-DAD", "emoji": "🙏", "hue": 0.92, "konu": "banabirşansver", "saat": "21:00"},
+  {"slug": "04_sana_soz_veriyorum", "tr": "Sana söz veriyorum", "es": "Te lo prometo", "es_say": "Te lo prometo.", "okunus": "te lo pro-ME-to", "emoji": "🤞", "hue": 0.48, "konu": "sanasözveriyorum", "saat": "22:00"},
+  {"slug": "05_uyuyamiyorum", "tr": "Uyuyamıyorum", "es": "No puedo dormir", "es_say": "No puedo dormir.", "okunus": "no PUE-do dor-MİR", "emoji": "🌙", "hue": 0.68, "konu": "uyuyamıyorum", "saat": "23:00"}
+]
