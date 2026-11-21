@@ -1,0 +1,7 @@
+[
+  {"slug": "01_neden_beni_aramadin", "tr": "Neden beni aramadın?", "es": "¿Por qué no me llamaste?", "es_say": "¿Por qué no me llamaste?", "okunus": "por KE no me ya-MAS-te", "emoji": "📞", "hue": 0.58, "konu": "nedenbeniaramadın", "saat": "18:00"},
+  {"slug": "02_gozlerin_cok_guzel", "tr": "Gözlerin çok güzel", "es": "Tus ojos son muy bonitos", "es_say": "Tus ojos son muy bonitos.", "okunus": "tus O-hos son muy bo-Nİ-tos", "emoji": "👀", "hue": 0.84, "konu": "gözlerinçokgüzel", "saat": "19:30"},
+  {"slug": "03_beni_duyuyor_musun", "tr": "Beni duyuyor musun?", "es": "¿Me puedes escuchar?", "es_say": "¿Me puedes escuchar?", "okunus": "me PUE-des es-ku-ÇAR", "emoji": "👂", "hue": 0.50, "konu": "beniduyuyormusun", "saat": "21:00"},
+  {"slug": "04_kalbim_senin", "tr": "Kalbim senin", "es": "Mi corazón es tuyo", "es_say": "Mi corazón es tuyo.", "okunus": "mi ko-ra-SON es TU-yo", "emoji": "❤️", "hue": 0.96, "konu": "kalbimsenin", "saat": "22:00"},
+  {"slug": "05_ne_zaman_doneceksin", "tr": "Ne zaman döneceksin?", "es": "¿Cuándo vas a volver?", "es_say": "¿Cuándo vas a volver?", "okunus": "KUAN-do bas a bol-BER", "emoji": "⏳", "hue": 0.70, "konu": "nezamandöneceksin", "saat": "23:00"}
+]
