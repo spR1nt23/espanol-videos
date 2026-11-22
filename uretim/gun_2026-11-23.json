@@ -1,0 +1,7 @@
+[
+  {"slug": "01_beni_hic_sevdin_mi", "tr": "Beni hiç sevdin mi?", "es": "¿Alguna vez me amaste?", "es_say": "¿Alguna vez me amaste?", "okunus": "al-GU-na bes me a-MAS-te", "emoji": "🥺", "hue": 0.62, "konu": "benihiçsevdinmi", "saat": "18:00"},
+  {"slug": "02_bu_gece_beni_ara", "tr": "Bu gece beni ara", "es": "Llámame esta noche", "es_say": "Llámame esta noche.", "okunus": "YA-ma-me ES-ta NO-çe", "emoji": "📱", "hue": 0.72, "konu": "bugecebeniara", "saat": "19:30"},
+  {"slug": "03_seni_dusunmeden_duramiyorum", "tr": "Seni düşünmeden duramıyorum", "es": "No dejo de pensar en ti", "es_say": "No dejo de pensar en ti.", "okunus": "no DE-ho de pen-SAR en ti", "emoji": "💭", "hue": 0.88, "konu": "senidüşünmedenduramıyorum", "saat": "21:00"},
+  {"slug": "04_benimle_mutlu_musun", "tr": "Benimle mutlu musun?", "es": "¿Eres feliz conmigo?", "es_say": "¿Eres feliz conmigo?", "okunus": "E-res fe-LİS kon-Mİ-go", "emoji": "😊", "hue": 0.55, "konu": "benimlemutlumusun", "saat": "22:00"},
+  {"slug": "05_bana_kizma", "tr": "Bana kızma", "es": "No te enojes conmigo", "es_say": "No te enojes conmigo.", "okunus": "no te e-NO-hes kon-Mİ-go", "emoji": "🙏", "hue": 0.98, "konu": "banakızma", "saat": "23:00"}
+]
