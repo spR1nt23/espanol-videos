@@ -1,0 +1,7 @@
+[
+  {"slug": "01_neden_bana_boyle_bakiyorsun", "tr": "Neden bana böyle bakıyorsun?", "es": "¿Por qué me miras así?", "es_say": "¿Por qué me miras así?", "okunus": "por KE me Mİ-ras a-Sİ", "emoji": "👀", "hue": 0.60, "konu": "nedenbanaböylebakıyorsun", "saat": "18:00"},
+  {"slug": "02_kalbimi_caldin", "tr": "Kalbimi çaldın", "es": "Me robaste el corazón", "es_say": "Me robaste el corazón.", "okunus": "me ro-BAS-te el ko-ra-SON", "emoji": "💘", "hue": 0.95, "konu": "kalbimiçaldın", "saat": "19:30"},
+  {"slug": "03_bana_bir_opucuk_ver", "tr": "Bana bir öpücük ver", "es": "Dame un beso", "es_say": "Dame un beso.", "okunus": "DA-me un BE-so", "emoji": "😘", "hue": 0.88, "konu": "banabiröpücükver", "saat": "21:00"},
+  {"slug": "04_benim_icin_cok_onemlisin", "tr": "Benim için çok önemlisin", "es": "Me importas mucho", "es_say": "Me importas mucho.", "okunus": "me im-POR-tas MU-ço", "emoji": "🫶", "hue": 0.52, "konu": "benimiçinçokönemlisin", "saat": "22:00"},
+  {"slug": "05_tatli_ruyalar", "tr": "Tatlı rüyalar", "es": "Que tengas dulces sueños", "es_say": "Que tengas dulces sueños.", "okunus": "ke TEN-gas DUL-ses SUE-nyos", "emoji": "🌙", "hue": 0.70, "konu": "tatlırüyalar", "saat": "23:00"}
+]
