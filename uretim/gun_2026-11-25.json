@@ -1,0 +1,7 @@
+[
+  {"slug": "01_benimle_dans_eder_misin", "tr": "Benimle dans eder misin?", "es": "¿Bailas conmigo?", "es_say": "¿Bailas conmigo?", "okunus": "bay-LAS kon-Mİ-go", "emoji": "💃", "hue": 0.02, "konu": "benimledansedermisin", "saat": "18:00"},
+  {"slug": "02_sana_asik_oldum", "tr": "Sana aşık oldum", "es": "Me enamoré de ti", "es_say": "Me enamoré de ti.", "okunus": "me e-na-mo-RE de Tİ", "emoji": "😍", "hue": 0.93, "konu": "sanaaşıkoldum", "saat": "19:30"},
+  {"slug": "03_bana_her_seyi_anlat", "tr": "Bana her şeyi anlat", "es": "Cuéntame todo", "es_say": "Cuéntame todo.", "okunus": "KUEN-ta-me TO-do", "emoji": "🗣️", "hue": 0.55, "konu": "banaherşeyianlat", "saat": "21:00"},
+  {"slug": "04_kalbim_hizli_atiyor", "tr": "Kalbim hızlı atıyor", "es": "Mi corazón late rápido", "es_say": "Mi corazón late rápido.", "okunus": "mi ko-ra-SON LA-te RA-pi-do", "emoji": "💓", "hue": 0.97, "konu": "kalbimhızlıatıyor", "saat": "22:00"},
+  {"slug": "05_beni_asla_birakma", "tr": "Beni asla bırakma", "es": "No me dejes nunca", "es_say": "No me dejes nunca.", "okunus": "no me DE-hes NUN-ka", "emoji": "🥺", "hue": 0.66, "konu": "beniaslabırakma", "saat": "23:00"}
+]
