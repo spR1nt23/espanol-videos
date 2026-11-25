@@ -1,0 +1,7 @@
+[
+  {"slug": "01_seni_bir_daha_gorecek_miyim", "tr": "Seni bir daha görecek miyim?", "es": "¿Te volveré a ver?", "es_say": "¿Te volveré a ver?", "okunus": "te bol-be-RE a BER", "emoji": "🥹", "hue": 0.64, "konu": "senibirdahagörecekmiyim", "saat": "18:00"},
+  {"slug": "02_seninle_konusmak_istiyorum", "tr": "Seninle konuşmak istiyorum", "es": "Quiero hablar contigo", "es_say": "Quiero hablar contigo.", "okunus": "KİE-ro a-BLAR kon-Tİ-go", "emoji": "💬", "hue": 0.50, "konu": "seninlekonuşmakistiyorum", "saat": "19:30"},
+  {"slug": "03_sen_cok_tatlisin", "tr": "Sen çok tatlısın", "es": "Eres muy dulce", "es_say": "Eres muy dulce.", "okunus": "E-res muy DUL-se", "emoji": "🍯", "hue": 0.08, "konu": "sençoktatlısın", "saat": "21:00"},
+  {"slug": "04_bana_bir_fotograf_gonder", "tr": "Bana bir fotoğraf gönder", "es": "Mándame una foto", "es_say": "Mándame una foto.", "okunus": "MAN-da-me U-na FO-to", "emoji": "📸", "hue": 0.80, "konu": "banabirfotoğrafgönder", "saat": "22:00"},
+  {"slug": "05_neden_bu_kadar_guzelsin", "tr": "Neden bu kadar güzelsin?", "es": "¿Por qué eres tan bonita?", "es_say": "¿Por qué eres tan bonita?", "okunus": "por KE E-res tan bo-Nİ-ta", "emoji": "😍", "hue": 0.94, "konu": "nedenbukadargüzelsin", "saat": "23:00"}
+]
