@@ -1,0 +1,7 @@
+[
+  {"slug": "01_elimi_tut", "tr": "Elimi tut", "es": "Toma mi mano", "es_say": "Toma mi mano.", "okunus": "TO-ma mi MA-no", "emoji": "🤝", "hue": 0.58, "konu": "elimitut", "saat": "18:00"},
+  {"slug": "02_neden_bu_kadar_geciktin", "tr": "Neden bu kadar geciktin?", "es": "¿Por qué tardaste tanto?", "es_say": "¿Por qué tardaste tanto?", "okunus": "por KE tar-DAS-te TAN-to", "emoji": "⏰", "hue": 0.03, "konu": "nedenbukadargeciktin", "saat": "19:30"},
+  {"slug": "03_sensiz_yasayamam", "tr": "Sensiz yaşayamam", "es": "Yo no puedo vivir sin ti", "es_say": "Yo no puedo vivir sin ti.", "okunus": "yo no PUE-do bi-BİR sin Tİ", "emoji": "💔", "hue": 0.92, "konu": "sensizyaşayamam", "saat": "21:00"},
+  {"slug": "04_bir_kahve_icelim_mi", "tr": "Bir kahve içelim mi?", "es": "¿Tomamos un café?", "es_say": "¿Tomamos un café?", "okunus": "to-MA-mos un ka-FE", "emoji": "☕", "hue": 0.1, "konu": "birkahveiçelimmi", "saat": "22:00"},
+  {"slug": "05_seninle_her_sey_daha_guzel", "tr": "Seninle her şey daha güzel", "es": "Todo es más bonito contigo", "es_say": "Todo es más bonito contigo.", "okunus": "TO-do es MAS bo-Nİ-to kon-Tİ-go", "emoji": "✨", "hue": 0.72, "konu": "seninleherşeydahagüzel", "saat": "23:00"}
+]
