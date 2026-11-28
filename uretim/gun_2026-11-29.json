@@ -1,0 +1,7 @@
+[
+  {"slug": "01_neden_bu_kadar_sessizsin", "tr": "Neden bu kadar sessizsin?", "es": "¿Por qué estás tan callado?", "es_say": "¿Por qué estás tan callado?", "okunus": "por KE es-TAS tan ka-YA-do", "emoji": "🤫", "hue": 0.62, "konu": "nedenbukadarsessizsin", "saat": "18:00"},
+  {"slug": "02_seni_tanimak_istiyorum", "tr": "Seni tanımak istiyorum", "es": "Yo quiero conocerte", "es_say": "Yo quiero conocerte.", "okunus": "yo KYE-ro ko-no-SER-te", "emoji": "💫", "hue": 0.12, "konu": "senitanımakistiyorum", "saat": "19:30"},
+  {"slug": "03_benimle_gelir_misin", "tr": "Benimle gelir misin?", "es": "¿Quieres venir conmigo?", "es_say": "¿Quieres venir conmigo?", "okunus": "KYE-res be-NİR kon-Mİ-go", "emoji": "🚶", "hue": 0.45, "konu": "benimlegelirmisin", "saat": "21:00"},
+  {"slug": "04_her_sey_yoluna_girecek", "tr": "Her şey yoluna girecek", "es": "Todo va a estar bien", "es_say": "Todo va a estar bien.", "okunus": "TO-do ba a es-TAR BYEN", "emoji": "🌈", "hue": 0.78, "konu": "herşeyyolunagirecek", "saat": "22:00"},
+  {"slug": "05_beni_neden_engelledin", "tr": "Beni neden engelledin?", "es": "¿Por qué me bloqueaste?", "es_say": "¿Por qué me bloqueaste?", "okunus": "por KE me blo-ke-AS-te", "emoji": "🚫", "hue": 0.98, "konu": "beninedenengelledin", "saat": "23:00"}
+]
